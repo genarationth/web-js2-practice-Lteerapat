@@ -27,7 +27,7 @@ Work in pairs to complete the following table:
 | “20”                  |   20       |  20        |   true        |
 | “Twenty”              |  NaN        |  twenty        |   true        |
 | null                  |   0       |   null       |  false         |
-| undefinited           |  NaN        |  undefined        |   false        |
+| undefined           |  NaN        |  undefined        |   false        |
 
 
 ## Part 2:  New contender

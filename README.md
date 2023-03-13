@@ -25,7 +25,7 @@ Work in pairs to complete the following table:
 | -Infinity             |  -Infinity  |  -Infinity        |   true        |
 | “”                    |   0       |    -      |  false         |
 | “20”                  |   20       |  20        |   true        |
-| “Twenty”              |  NaN        |  twenty        |   true        |
+| “Twenty”              |  NaN        |  Twenty        |   true        |
 | null                  |   0       |   null       |  false         |
 | undefined           |  NaN        |  undefined        |   false        |
 
